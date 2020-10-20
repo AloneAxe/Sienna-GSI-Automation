@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.resurrectionremix.com/ten/j6primelte/RROS-Q-8.6.1-20201004-j6primelte-Official.zip
+  ROM_URL: https://hugeota.d.miui.com/V12.0.2.0.PDMMIXM/miui_HM6ProINGlobal_V12.0.2.0.PDMMIXM_fb255b4239_9.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: HM6ProINGLOBAL
+  ZIP_NAME: HM6ProMIUI12
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
