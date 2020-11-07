@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.2.0.PEFMIXM/miui_HMS2Global_V12.0.2.0.PEFMIXM_668a87d737_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/V10.2.3.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: HM6ProMIUI12
+  ZIP_NAME: MIUI10GlobalGsi
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
