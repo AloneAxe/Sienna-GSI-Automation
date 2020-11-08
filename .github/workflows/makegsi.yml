@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/pixelextended/files/Whyred/PixelExtended_whyred-11-20201019-0038-OFFICIAL.zip/download
+  ROM_URL: https://sourceforge.net/projects/pixelextended/files/Whyred/PixelExtended_whyred-11-20201019-0038-OFFICIAL.zip
   ROM_NAME: Pixel Extended
   ZIP_NAME: PixelExtended_daisy-11-2020118-0016-OFFICIAL
   TZ: Asia/Kolkata
