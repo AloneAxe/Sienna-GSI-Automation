@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.2.3.0.PCMEUXM/miui_PINEEEAGlobal_V10.2.3.0.PCMEUXM_2f66f8d068_9.0.zip
+  ROM_URL: https://download.pixelexperience.org/changelog/a5y17lte/PixelExperience_a5y17lte-10.0-20201011-0451-OFFICIAL.zip/
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI10GlobalGsi
+  ZIP_NAME: PixelExp10GSISamsungA6
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
