@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.pixelexperience.org/changelog/a5y17lte/PixelExperience_a5y17lte-10.0-20201011-0451-OFFICIAL.zip/
+  ROM_URL: https://sourceforge.net/projects/pixelextended/files/Wayne/PixelExtended_wayne-11-20201103-0329-OFFICIAL.zip/download
   ROM_NAME: MIUI
-  ZIP_NAME: PixelExp10GSISamsungA6
+  ZIP_NAME: PixelGSISamsungA6
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
