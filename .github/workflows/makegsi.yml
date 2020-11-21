@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM6Pro_V10.3.4.0.PDICNXM_v10-9.zip/download
+  ROM_URL: https://netix.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv10/xiaomi.eu_multi_HM6Pro_V10.3.4.0.PDICNXM_v10-9.zip?viasf=1
   ROM_NAME: MIUI
   ZIP_NAME: BurkayGSI_xiaomi.eu_multi_HM6Pro_V10.3.4.0.PDICNXM_v10-9
   TZ: Asia/Kolkata
