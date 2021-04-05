@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://androidfilehost.com/?fid=6006931924117923999
-  ROM_NAME: MIUI
-  ZIP_NAME: BurkayGSI_miui_HM6ProEU_V10.3.4.0.PDMCNXM_e536e6effd_9.0
+  ROM_URL: https://netix.dl.sourceforge.net/project/dotos-downloads/dot11/davinci/gapps/dotOS-R-v5.0.0-davinci-GAPPS-20210218-1647.zip
+  ROM_NAME: GENERIC
+  ZIP_NAME: BurkayGSI_Generic:DotOS-v5
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
